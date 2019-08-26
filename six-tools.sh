@@ -21,7 +21,7 @@ figlet SEA | lolcat
 
 echo "_____________________________________________________________"
 echo "Tools    : Kumpulan Tools SEA  $red                         " |lolcat
-echo "Created  : BEKTOS   $red                                      " |lolcat
+echo "Created  : CRAUN_09   $red                                      " |lolcat
 echo "Contact  : 0852xxxxxxxx   $red                             " |lolcat
 echo "_____________________________________________________________"
 
@@ -116,7 +116,7 @@ bash /data/data/com.termux/files/home/Tool-X/sh install.aex
 ;;
 
 
-6) echo "created by : BEKTOS" | lolcat
+6) echo "created by : CRAUN" | lolcat
 exit
 ;;
 
